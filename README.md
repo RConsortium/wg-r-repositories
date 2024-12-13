@@ -13,7 +13,7 @@ The goal of this working group is to collaboratively explore how to support, mai
 
 -   James Black, Genentech/Roche
 
--   Gabor Csardi, RStudio
+-   Gabor Csardi, Posit
 
 -   Ellis Hughes,
 
@@ -31,9 +31,9 @@ The goal of this working group is to collaboratively explore how to support, mai
 
 -   Paul Schuette, FDA
 
--   Hadley Wickham, RStudio
+-   Hadley Wickham, Posit
 
--   Tyler Finethy, RStudio
+-   Greg Lin, Posit
 
 -   Mehrad Mahmoudian,
 
